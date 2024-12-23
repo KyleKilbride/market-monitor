@@ -11,6 +11,8 @@ A terminal-based RSS feed monitoring tool that tracks keywords across configured
 - 🔔 Desktop notifications for matches
 - 📝 Persistent storage of matched items
 
+![Market Monitor](./assets/example.png)
+
 ## Installation
 
 ```bash
