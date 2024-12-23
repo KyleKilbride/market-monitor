@@ -1,0 +1,828 @@
+{
+  "lastUpdated": "2024-12-23T13:12:43.162Z",
+  "items": [
+    {
+      "title": "Show HN: Dynamic Pydantic – Create Pydantic Models Using AI",
+      "content": "\n<p>A couple of months ago, I was able to replicate expand.ai's (YC S24) auto schema generation tool [1] over a weekend.<p>I've turned it into an open-source tool [2], combining Instructor and Pydantic to dynamically create models in runtime.<p>If AI agents want to become truly autonomous, they will need to be able to generate and validate code, tools and databases on the go.<p>Please let me know what you think! Looking for feedback on expanding this for agent-to-agent creation.<p>[1] <a href=\"https://expand.ai\">https://expand.ai</a>\n[2] <a href=\"https://github.com/lukafilipxvic/dynamic-pydantic\">https://github.com/lukafilipxvic/dynamic-pydantic</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42476056\">https://news.ycombinator.com/item?id=42476056</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "source": "https://hnrss.org/newest",
+      "sourceName": "Hacker News",
+      "link": "https://github.com/lukafilipxvic/dynamic-pydantic",
+      "timestamp": "2024-12-20T23:12:04.000Z",
+      "addedAt": "2024-12-20T23:20:54.770Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI agents",
+          "score": 12.8,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "filipovic",
+      "comments": "https://news.ycombinator.com/item?id=42476056",
+      "guid": "https://news.ycombinator.com/item?id=42476056",
+      "pubDate": "Fri, 20 Dec 2024 23:12:04 +0000",
+      "creator": "filipovic",
+      "contentSnippet": "A couple of months ago, I was able to replicate expand.ai's (YC S24) auto schema generation tool [1] over a weekend.\nI've turned it into an open-source tool [2], combining Instructor and Pydantic to dynamically create models in runtime.\nIf AI agents want to become truly autonomous, they will need to be able to generate and validate code, tools and databases on the go.\nPlease let me know what you think! Looking for feedback on expanding this for agent-to-agent creation.\n[1] https://expand.ai\n[2] https://github.com/lukafilipxvic/dynamic-pydantic\nComments URL: https://news.ycombinator.com/item?id=42476056\nPoints: 1\n# Comments: 0",
+      "isoDate": "2024-12-20T23:12:04.000Z"
+    },
+    {
+      "title": "OpenAI confirms new frontier models o3 and o3-mini",
+      "content": "<img width=\"578\" height=\"330\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/o3.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Colorful image of people staring at a robot with text floating before it o3\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/o3.png 1792w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=300,171 300w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=768,439 768w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=800,457 800w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=1536,878 1536w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=400,229 400w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=750,429 750w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=578,330 578w, https://venturebeat.com/wp-content/uploads/2024/12/o3.png?resize=930,531 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>OpenAI has just confirmed that is releasing new reasoning models named o3 and o3-mini, successors to the o1 and o1-mini models.<a href=\"https://venturebeat.com/ai/openai-confirms-new-frontier-models-o3-and-o3-mini/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/openai-confirms-new-frontier-models-o3-and-o3-mini/",
+      "timestamp": "2024-12-20T18:07:16.000Z",
+      "addedAt": "2024-12-23T13:12:42.645Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Carl Franzen",
+      "categories": [
+        "AI",
+        "Programming & Development",
+        "AI, ML and Deep Learning",
+        "Conversational AI",
+        "LLMs",
+        "NLP",
+        "o3",
+        "OpenAI",
+        "OpenAI o3",
+        "reasoning"
+      ],
+      "guid": "https://venturebeat.com/?p=2988389",
+      "pubDate": "Fri, 20 Dec 2024 18:07:16 +0000",
+      "creator": "Carl Franzen",
+      "contentSnippet": "OpenAI has just confirmed that is releasing new reasoning models named o3 and o3-mini, successors to the o1 and o1-mini models.",
+      "isoDate": "2024-12-20T18:07:16.000Z"
+    },
+    {
+      "title": "Google unveils new reasoning model Gemini 2.0 Flash Thinking to rival OpenAI o1",
+      "content": "<img width=\"578\" height=\"330\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Cartoon stipple color image of a white humanoid robot with transparent head dominated by pink brain holds its hands up and points at its head with a lightbulb and lightning bolts floating directly above it\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png 1792w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=300,171 300w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=768,439 768w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=800,457 800w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=1536,878 1536w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=400,229 400w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=750,429 750w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=578,330 578w, https://venturebeat.com/wp-content/uploads/2024/12/robot-thinking.png?resize=930,531 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Unlike competitor reasoning model o1 from OpenAI, Gemini 2.0 enables users to access its step-by-step reasoning through a dropdown menu.<a href=\"https://venturebeat.com/ai/google-unveils-new-reasoning-model-gemini-2-0-flash-thinking-to-rival-openai-o1/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/google-unveils-new-reasoning-model-gemini-2-0-flash-thinking-to-rival-openai-o1/",
+      "timestamp": "2024-12-19T18:04:34.000Z",
+      "addedAt": "2024-12-23T13:12:42.645Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Carl Franzen",
+      "categories": [
+        "AI",
+        "AI, ML and Deep Learning",
+        "Conversational AI",
+        "gemini 2 flash thinking",
+        "Gemini 2.0",
+        "Google",
+        "Google AI",
+        "Google AI Studio",
+        "Google Gemini 2.0 Flash",
+        "LLM reasoning",
+        "LLMs",
+        "multimodal ai",
+        "NLP",
+        "OpenAI",
+        "reasoning",
+        "reasoning AI"
+      ],
+      "guid": "https://venturebeat.com/?p=2988214",
+      "pubDate": "Thu, 19 Dec 2024 18:04:34 +0000",
+      "creator": "Carl Franzen",
+      "contentSnippet": "Unlike competitor reasoning model o1 from OpenAI, Gemini 2.0 enables users to access its step-by-step reasoning through a dropdown menu.",
+      "isoDate": "2024-12-19T18:04:34.000Z"
+    },
+    {
+      "title": "Small model, big impact: Patronus AI’s Glider outperforms GPT-4 in key AI evaluation tasks",
+      "content": "<img width=\"578\" height=\"324\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Credit: VentureBeat made with Midjourney\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp 1033w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?resize=300,168 300w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?resize=768,430 768w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?resize=400,224 400w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?resize=750,420 750w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?resize=578,324 578w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_hang_glider_770a36f2-f762-4ea9-b06d-23c7b62d32ca.webp?resize=930,521 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Patronus AI launches Glider, a breakthrough 3.8B-parameter language model that rivals GPT-4's evaluation capabilities while running on-device, offering transparent AI assessment with detailed explanations for developers and enterprises.<a href=\"https://venturebeat.com/ai/small-model-big-impact-patronus-ai-glider-outperforms-gpt-4-in-key-ai-benchmarks/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/small-model-big-impact-patronus-ai-glider-outperforms-gpt-4-in-key-ai-benchmarks/",
+      "timestamp": "2024-12-19T14:00:00.000Z",
+      "addedAt": "2024-12-23T13:12:42.645Z",
+      "matchedKeywords": [
+        {
+          "keyword": "GPT-4",
+          "score": 18,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Michael Nuñez",
+      "categories": [
+        "AI",
+        "Automation",
+        "Data Infrastructure",
+        "Enterprise Analytics",
+        "Programming & Development",
+        "Security",
+        "ai",
+        "AI benchmarks",
+        "AI development",
+        "AI evaluation",
+        "AI explainability",
+        "AI safety",
+        "AI, ML and Deep Learning",
+        "artificial intelligence",
+        "category-/News",
+        "Conversational AI",
+        "Data Management",
+        "Data Science",
+        "Data Security and Privacy",
+        "Glider",
+        "Glider model",
+        "GPT-4",
+        "GPT-4 Alternative",
+        "language models",
+        "machine learning",
+        "natural language processing",
+        "NLP",
+        "Patronus",
+        "Patronus AI",
+        "small language models",
+        "small language models (SLMs)"
+      ],
+      "guid": "https://venturebeat.com/?p=2988130",
+      "pubDate": "Thu, 19 Dec 2024 14:00:00 +0000",
+      "creator": "Michael Nuñez",
+      "contentSnippet": "Patronus AI launches Glider, a breakthrough 3.8B-parameter language model that rivals GPT-4's evaluation capabilities while running on-device, offering transparent AI assessment with detailed explanations for developers and enterprises.",
+      "isoDate": "2024-12-19T14:00:00.000Z"
+    },
+    {
+      "title": "OpenAI’s new hotline: Chat with ChatGPT anytime, anywhere",
+      "content": "<img width=\"578\" height=\"324\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Credit: VentureBeat generated with MidJourney\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp 1033w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?resize=300,168 300w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?resize=768,430 768w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?resize=400,224 400w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?resize=750,420 750w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?resize=578,324 578w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_phone_4ee8f567-a9e8-464c-8367-ba30f8c3f3ea.webp?resize=930,521 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Users can now give ChatGPT a ring and ask questions. (800)-ChatGPT accepts any device that can make calls, even for those without a data plan<a href=\"https://venturebeat.com/ai/openais-new-hotline-chat-with-chatgpt-anytime-anywhere/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/openais-new-hotline-chat-with-chatgpt-anytime-anywhere/",
+      "timestamp": "2024-12-18T21:35:01.000Z",
+      "addedAt": "2024-12-23T13:12:42.646Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Emilia David",
+      "categories": [
+        "AI",
+        "advanced voice mode",
+        "AI, ML and Deep Learning",
+        "category-/Internet & Telecom/Mobile & Wireless",
+        "ChatGPT",
+        "Conversational AI",
+        "Mobile",
+        "OpenAI"
+      ],
+      "guid": "https://venturebeat.com/?p=2988003",
+      "pubDate": "Wed, 18 Dec 2024 21:35:01 +0000",
+      "creator": "Emilia David",
+      "contentSnippet": "Users can now give ChatGPT a ring and ask questions. (800)-ChatGPT accepts any device that can make calls, even for those without a data plan",
+      "isoDate": "2024-12-18T21:35:01.000Z"
+    },
+    {
+      "title": "GitHub is making its AI programming Copilot free for VS Code developers — with limits",
+      "content": "<img width=\"578\" height=\"330\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Simple beige-hued flat illustration of a woman in black tie and slacks with white shirt typing at desk in front of a robot in a sleek modernist office in profile view\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png 1792w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=300,171 300w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=768,439 768w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=800,457 800w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=1536,878 1536w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=400,229 400w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=750,429 750w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=578,330 578w, https://venturebeat.com/wp-content/uploads/2024/12/woman-typing-at-desk-beside-robot.png?resize=930,531 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>The service leverages advanced AI models, including Anthropic’s Claude 3.5 Sonnet and OpenAI’s GPT-4o, with limits.<a href=\"https://venturebeat.com/programming-development/github-is-making-its-ai-programming-copilot-free-for-vs-code-developers-with-limits/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/programming-development/github-is-making-its-ai-programming-copilot-free-for-vs-code-developers-with-limits/",
+      "timestamp": "2024-12-18T20:58:30.000Z",
+      "addedAt": "2024-12-23T13:12:42.647Z",
+      "matchedKeywords": [
+        {
+          "keyword": "GPT-4",
+          "score": 18,
+          "matchType": "exact"
+        },
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        },
+        {
+          "keyword": "Anthropic",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Carl Franzen",
+      "categories": [
+        "AI",
+        "Programming & Development",
+        "AI, ML and Deep Learning",
+        "Conversational AI",
+        "CoPilot",
+        "GitHub Copilot",
+        "LLMs",
+        "NLP",
+        "Product Development",
+        "visual studio",
+        "vs code"
+      ],
+      "guid": "https://venturebeat.com/?p=2988009",
+      "pubDate": "Wed, 18 Dec 2024 20:58:30 +0000",
+      "creator": "Carl Franzen",
+      "contentSnippet": "The service leverages advanced AI models, including Anthropic’s Claude 3.5 Sonnet and OpenAI’s GPT-4o, with limits.",
+      "isoDate": "2024-12-18T20:58:30.000Z"
+    },
+    {
+      "title": "Salesforce drops Agentforce 2.0, brings reasoning AI to enterprise",
+      "content": "<img width=\"578\" height=\"324\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Credit: VentureBeat made with Midjourney\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp 1033w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?resize=300,168 300w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?resize=768,430 768w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?resize=400,224 400w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?resize=750,420 750w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?resize=578,324 578w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_cute_robots_working_in_an_office_future_d7550b70-3da5-40ce-a2b9-d5e52b8e34c9.webp?resize=930,521 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Salesforce has unveiled Agentforce 2.0, introducing AI agents with human-like reasoning abilities that can autonomously handle complex business tasks, marking a major push into the emerging 'digital labor' market.<a href=\"https://venturebeat.com/ai/salesforce-drops-agentforce-2-0-brings-reasoning-ai-to-enterprise/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/salesforce-drops-agentforce-2-0-brings-reasoning-ai-to-enterprise/",
+      "timestamp": "2024-12-18T20:09:43.000Z",
+      "addedAt": "2024-12-23T13:12:42.647Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI agents",
+          "score": 12.8,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "Michael Nuñez",
+      "categories": [
+        "AI",
+        "Automation",
+        "Business",
+        "Data Infrastructure",
+        "Enterprise Analytics",
+        "Programming & Development",
+        "Security",
+        "Agentforce 2.0",
+        "Agentic AI",
+        "AI agents",
+        "AI workers",
+        "AI, ML and Deep Learning",
+        "artificial intelligence",
+        "Atlas Reasoning",
+        "Atlas Reasoning Engine",
+        "business automation",
+        "Business Intelligence",
+        "category-/Business & Industrial/Business Operations",
+        "category-/Computers & Electronics",
+        "Conversational AI",
+        "Data Management",
+        "Data Science",
+        "Digital Labor",
+        "enterprise ai",
+        "enterprise AI agents",
+        "enterprise software",
+        "Marc Benioff",
+        "NLP",
+        "Salesforce",
+        "salesforce ai",
+        "Salesforce AI Research",
+        "System 2 Reasoning"
+      ],
+      "guid": "https://venturebeat.com/?p=2987963",
+      "pubDate": "Wed, 18 Dec 2024 20:09:43 +0000",
+      "creator": "Michael Nuñez",
+      "contentSnippet": "Salesforce has unveiled Agentforce 2.0, introducing AI agents with human-like reasoning abilities that can autonomously handle complex business tasks, marking a major push into the emerging 'digital labor' market.",
+      "isoDate": "2024-12-18T20:09:43.000Z"
+    },
+    {
+      "title": "OpenAI opens up its most powerful model, o1, to third-party developers",
+      "content": "<img width=\"578\" height=\"330\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Sketchy marker and pen graphic novel style splash page AI image of a group of 6 developers some masc some femme typing on computers side-by-side on a long desk beneath a dashboard mounted on the wall reading o1 api in pixellated white text\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png 1792w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=300,171 300w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=768,439 768w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=800,457 800w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=1536,878 1536w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=400,229 400w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=750,429 750w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=578,330 578w, https://venturebeat.com/wp-content/uploads/2024/12/o1-api.png?resize=930,531 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>A major step forward for devs looking to build new advanced AI applications or integrate the most advanced OpenAI tech.<a href=\"https://venturebeat.com/programming-development/openai-opens-its-most-powerful-model-o1-up-to-third-party-developers/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/programming-development/openai-opens-its-most-powerful-model-o1-up-to-third-party-developers/",
+      "timestamp": "2024-12-17T18:01:59.000Z",
+      "addedAt": "2024-12-23T13:12:42.648Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Carl Franzen",
+      "categories": [
+        "AI",
+        "Business",
+        "Programming & Development",
+        "AI, ML and Deep Learning",
+        "API",
+        "APIs",
+        "Conversational AI",
+        "NLP",
+        "o1",
+        "o1 mini",
+        "OpenAI",
+        "openai o1",
+        "openai o1 mini",
+        "Product Development",
+        "Realtime API"
+      ],
+      "guid": "https://venturebeat.com/?p=2987766",
+      "pubDate": "Tue, 17 Dec 2024 18:01:59 +0000",
+      "creator": "Carl Franzen",
+      "contentSnippet": "A major step forward for devs looking to build new advanced AI applications or integrate the most advanced OpenAI tech.",
+      "isoDate": "2024-12-17T18:01:59.000Z"
+    },
+    {
+      "title": "Google: AI agents, multimodal AI, enterprise search will dominate in 2025",
+      "content": "<img width=\"578\" height=\"324\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"VentureBeat/Midjourney\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp 2066w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=300,168 300w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=768,430 768w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=1536,861 1536w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=2048,1148 2048w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=400,224 400w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=750,420 750w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=578,324 578w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Abstract_art_of_robots_chatting_on_instant_messenger__44be2d4d-a3e3-408b-b11f-a0bf322c2a61-transformed.webp?resize=930,521 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Google used NotebookLM, Google Trends and third-party insights to identify AI agents, multimodal AI and enterprise search as top 2025 trends.<a href=\"https://venturebeat.com/ai/google-ai-agents-multimodal-ai-enterprise-search-will-dominate-in-2025/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/google-ai-agents-multimodal-ai-enterprise-search-will-dominate-in-2025/",
+      "timestamp": "2024-12-17T13:00:00.000Z",
+      "addedAt": "2024-12-23T13:12:42.649Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI agents",
+          "score": 12.8,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "Taryn Plumb",
+      "categories": [
+        "AI",
+        "AI, ML and Deep Learning",
+        "category-/News",
+        "Conversational AI",
+        "Generative AI",
+        "Google",
+        "Google Cloud",
+        "large language models",
+        "NLP"
+      ],
+      "guid": "https://venturebeat.com/?p=2987625",
+      "pubDate": "Tue, 17 Dec 2024 13:00:00 +0000",
+      "creator": "Taryn Plumb",
+      "contentSnippet": "Google used NotebookLM, Google Trends and third-party insights to identify AI agents, multimodal AI and enterprise search as top 2025 trends.",
+      "isoDate": "2024-12-17T13:00:00.000Z"
+    },
+    {
+      "title": "AI Agents and Why Big Tech Is Betting on Them for 2025",
+      "content": "\n<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2024-12-13/ai-agents-and-why-big-tech-is-betting-on-them-for-2025\">https://www.bloomberg.com/news/articles/2024-12-13/ai-agents-and-why-big-tech-is-betting-on-them-for-2025</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42435377\">https://news.ycombinator.com/item?id=42435377</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>\n",
+      "source": "https://hnrss.org/newest",
+      "sourceName": "Hacker News",
+      "link": "https://www.bloomberg.com/news/articles/2024-12-13/ai-agents-and-why-big-tech-is-betting-on-them-for-2025",
+      "timestamp": "2024-12-16T20:59:39.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI agents",
+          "score": 12.8,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "kjhughes",
+      "comments": "https://news.ycombinator.com/item?id=42435377",
+      "guid": "https://news.ycombinator.com/item?id=42435377",
+      "pubDate": "Mon, 16 Dec 2024 20:59:39 +0000",
+      "creator": "kjhughes",
+      "contentSnippet": "Article URL: https://www.bloomberg.com/news/articles/2024-12-13/ai-agents-and-why-big-tech-is-betting-on-them-for-2025\nComments URL: https://news.ycombinator.com/item?id=42435377\nPoints: 1\n# Comments: 0",
+      "isoDate": "2024-12-16T20:59:39.000Z"
+    },
+    {
+      "title": "OpenAI updates ChatGPT Search with voice queries, faster results, mobile maps integration",
+      "content": "<img width=\"578\" height=\"330\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Monochromatic 2D cartoon of woman holding smartphone while wearing santa hat surrounded by large intricate snowflakes\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png 1792w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=300,171 300w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=768,439 768w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=800,457 800w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=1536,878 1536w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=400,229 400w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=750,429 750w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=578,330 578w, https://venturebeat.com/wp-content/uploads/2024/12/woman-using-chatgpt-voice-holiday.png?resize=930,531 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>OpenAI is updating its web search integration with ChatGPT to expand access and make it more useful to those on the go.<a href=\"https://venturebeat.com/ai/openai-updates-chatgpt-search-with-voice-queries-faster-results-mobile-maps-integration/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/openai-updates-chatgpt-search-with-voice-queries-faster-results-mobile-maps-integration/",
+      "timestamp": "2024-12-16T18:42:45.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Carl Franzen",
+      "categories": [
+        "AI",
+        "Business",
+        "chatbots",
+        "ChatGPT Search",
+        "chatgpt with search",
+        "LLMs",
+        "OpenAI",
+        "SearchGPT",
+        "web search"
+      ],
+      "guid": "https://venturebeat.com/?p=2987542",
+      "pubDate": "Mon, 16 Dec 2024 18:42:45 +0000",
+      "creator": "Carl Franzen",
+      "contentSnippet": "OpenAI is updating its web search integration with ChatGPT to expand access and make it more useful to those on the go.",
+      "isoDate": "2024-12-16T18:42:45.000Z"
+    },
+    {
+      "title": "We’ve come a long way from RPA: How AI agents are revolutionizing automation",
+      "content": "<img width=\"578\" height=\"324\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"VentureBeat/Ideogram\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg 2624w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=300,168 300w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=768,431 768w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=1536,862 1536w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=2048,1149 2048w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=400,224 400w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=750,421 750w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=578,324 578w, https://venturebeat.com/wp-content/uploads/2024/12/a-cinematic-wide-shot-of-a-modern-office-with-a-gr-a_Pwz3zvS-uuH9SgzrYyGg-qXQaHe8BRXSj2RAFDBY4OQ-transformed.jpeg?resize=930,522 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>From chatbots to retrieval-augmented generation applications to autonomous multi-agent AI: What's every enterprise leader needs to know.<a href=\"https://venturebeat.com/ai/weve-come-a-long-way-from-rpa-how-ai-agents-are-revolutionizing-automation/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/weve-come-a-long-way-from-rpa-how-ai-agents-are-revolutionizing-automation/",
+      "timestamp": "2024-12-16T00:15:00.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI agents",
+          "score": 12.8,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "Rohan Sharma, Zenolabs",
+      "categories": [
+        "AI",
+        "DataDecisionMakers",
+        "AI agents",
+        "AI, ML and Deep Learning",
+        "category-/Business & Industrial",
+        "category-/Computers & Electronics",
+        "Conversational AI",
+        "Generative AI",
+        "large language models",
+        "NLP",
+        "retrieval augmented generation"
+      ],
+      "guid": "https://venturebeat.com/?p=2987418",
+      "pubDate": "Mon, 16 Dec 2024 00:15:00 +0000",
+      "creator": "Rohan Sharma, Zenolabs",
+      "contentSnippet": "From chatbots to retrieval-augmented generation applications to autonomous multi-agent AI: What's every enterprise leader needs to know.",
+      "isoDate": "2024-12-16T00:15:00.000Z"
+    },
+    {
+      "title": "What are AI ‘world models,’ and why do they matter?",
+      "content": "<p>World models, also known as world simulators, are being touted by some as the next big thing in AI. AI pioneer Fei-Fei Li&#8217;s World Labs has raised $230 million to build &#8220;large world models,&#8221; and DeepMind hired one of the creators of OpenAI&#8217;s video generator, Sora, to work on &#8220;world simulators.&#8221; (Sora was released on [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
+      "source": "https://techcrunch.com/tag/artificial-intelligence/feed/",
+      "sourceName": "TechCrunch AI",
+      "link": "https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/",
+      "timestamp": "2024-12-14T18:01:19.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Kyle Wiggers",
+      "categories": [
+        "AI",
+        "Artificial Intelligence (AI)",
+        "evergreens",
+        "world models"
+      ],
+      "guid": "https://techcrunch.com/?p=2905901",
+      "pubDate": "Sat, 14 Dec 2024 18:01:19 +0000",
+      "creator": "Kyle Wiggers",
+      "contentSnippet": "World models, also known as world simulators, are being touted by some as the next big thing in AI. AI pioneer Fei-Fei Li’s World Labs has raised $230 million to build “large world models,” and DeepMind hired one of the creators of OpenAI’s video generator, Sora, to work on “world simulators.” (Sora was released on […]\n© 2024 TechCrunch. All rights reserved. For personal use only.",
+      "isoDate": "2024-12-14T18:01:19.000Z"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Projects, letting you organize files, chats in groups",
+      "content": "<img width=\"578\" height=\"325\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"screenshot of Projects in ChatGPT\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/New-project.png 3840w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=300,169 300w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=768,432 768w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=1536,864 1536w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=2048,1152 2048w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=400,225 400w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=750,422 750w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=578,325 578w, https://venturebeat.com/wp-content/uploads/2024/12/New-project.png?resize=930,523 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Projects in ChatGPT allows users to create folders and add conversations and documents, bringing these capabilities together in one place. <a href=\"https://venturebeat.com/ai/openai-launches-chatgpt-projects-letting-you-organize-files-chats-in-groups/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/openai-launches-chatgpt-projects-letting-you-organize-files-chats-in-groups/",
+      "timestamp": "2024-12-13T21:56:23.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Emilia David",
+      "categories": [
+        "AI",
+        "AI, ML and Deep Learning",
+        "category-/Computers & Electronics/Software",
+        "category-/Internet & Telecom",
+        "category-/Online Communities",
+        "ChatGPT",
+        "ChatGPT Plus",
+        "ChatGPT Pro",
+        "ChatGPT Teams",
+        "NotebookLM",
+        "OpenAI"
+      ],
+      "guid": "https://venturebeat.com/?p=2987350",
+      "pubDate": "Fri, 13 Dec 2024 21:56:23 +0000",
+      "creator": "Emilia David",
+      "contentSnippet": "Projects in ChatGPT allows users to create folders and add conversations and documents, bringing these capabilities together in one place.",
+      "isoDate": "2024-12-13T21:56:23.000Z"
+    },
+    {
+      "title": "Gemini 2.0 Flash ushers in a new era of real-time multimodal AI",
+      "content": "<img width=\"578\" height=\"330\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp 1792w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=300,171 300w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=768,439 768w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=800,457 800w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=1536,878 1536w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=400,229 400w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=750,429 750w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=578,330 578w, https://venturebeat.com/wp-content/uploads/2024/12/DALL·E-2024-12-13-09.09.07-A-modern-engaging-visual-of-Googles-Gemini-2.0-Flash-technology.-The-image-depicts-a-sleek-smartphone-prominently-displaying-real-time-video-streami.webp?resize=930,531 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Google’s release of Gemini 2.0 Flash this week, offering users a way to interact live with video of their surroundings, has set the stage for what could be a pivotal shift in how enterprises and consumers engage with technology. This release — alongside announcements from OpenAI, Microsoft, and others — is part of transformative leap forward happening in the technology area called “multimodal AI.”<a href=\"https://venturebeat.com/ai/gemini-2-0-flash-ushers-in-a-new-era-of-real-time-multimodal-ai/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/gemini-2-0-flash-ushers-in-a-new-era-of-real-time-multimodal-ai/",
+      "timestamp": "2024-12-13T17:04:43.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Matt Marshall",
+      "categories": [
+        "AI",
+        "Business",
+        "Data Infrastructure",
+        "Enterprise Analytics",
+        "Programming & Development",
+        "Agentic AI",
+        "AI, ML and Deep Learning",
+        "category-/Computers & Electronics/Software",
+        "category-/Science",
+        "Conversational AI",
+        "Gemin 2.0 Flash",
+        "Gemini 2.0",
+        "Google AI Studio",
+        "Microsoft",
+        "Mulimodal",
+        "OpenAI",
+        "Project Astra",
+        "Project Mariner"
+      ],
+      "guid": "https://venturebeat.com/?p=2987299",
+      "pubDate": "Fri, 13 Dec 2024 17:04:43 +0000",
+      "creator": "Matt Marshall",
+      "contentSnippet": "Google’s release of Gemini 2.0 Flash this week, offering users a way to interact live with video of their surroundings, has set the stage for what could be a pivotal shift in how enterprises and consumers engage with technology. This release — alongside announcements from OpenAI, Microsoft, and others — is part of transformative leap forward happening in the technology area called “multimodal AI.”",
+      "isoDate": "2024-12-13T17:04:43.000Z"
+    },
+    {
+      "title": "ChatGPT gets screensharing and real-time video analysis, rivaling Gemini 2",
+      "content": "<img width=\"578\" height=\"325\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"ChatGPT Advanced Voice Mode Santa\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png 1920w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=300,169 300w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=768,432 768w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=1536,864 1536w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=400,225 400w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=750,422 750w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=578,325 578w, https://venturebeat.com/wp-content/uploads/2024/12/SantaVoice_Still.png?resize=930,523 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>OpenAI now lets users video chat with ChatGPT in advanced voice mode, and the chatbot will respond to real-time images.<a href=\"https://venturebeat.com/ai/chatgpt-gets-screensharing-and-real-time-video-analysis-rivaling-gemini-2/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/chatgpt-gets-screensharing-and-real-time-video-analysis-rivaling-gemini-2/",
+      "timestamp": "2024-12-12T21:55:49.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Emilia David",
+      "categories": [
+        "AI",
+        "advanced voice mode",
+        "AI, ML and Deep Learning",
+        "category-/Computers & Electronics",
+        "category-/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons",
+        "ChatGPT",
+        "ChatGPT Edu",
+        "ChatGPT Enterprise",
+        "ChatGPT Plus",
+        "ChatGPT Teams",
+        "Conversational AI",
+        "Gemini",
+        "Google",
+        "Microsoft",
+        "OpenAI",
+        "Text-to-Speech"
+      ],
+      "guid": "https://venturebeat.com/?p=2987166",
+      "pubDate": "Thu, 12 Dec 2024 21:55:49 +0000",
+      "creator": "Emilia David",
+      "contentSnippet": "OpenAI now lets users video chat with ChatGPT in advanced voice mode, and the chatbot will respond to real-time images.",
+      "isoDate": "2024-12-12T21:55:49.000Z"
+    },
+    {
+      "title": "Anthropic’s fastest model, Claude 3.5 Haiku, now generally available",
+      "content": "<img width=\"578\" height=\"330\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Graphic novel style sepia toned AI artwork showing a frizzy haired man with glasses staring at a PC display emanating a haiku text and a bird and rays of light\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png 1792w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=300,171 300w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=768,439 768w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=800,457 800w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=1536,878 1536w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=400,229 400w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=750,429 750w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=578,330 578w, https://venturebeat.com/wp-content/uploads/2024/12/man-reading-haiku-pc.png?resize=930,531 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>With features like image and file analysis, robust coding capabilities, and integration with Artifacts, Claude 3.5 Haiku is a powerful tool.<a href=\"https://venturebeat.com/ai/claude-3-5-haiku-chatbot-now-generally-available/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/claude-3-5-haiku-chatbot-now-generally-available/",
+      "timestamp": "2024-12-12T16:40:45.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "Claude-3",
+          "score": 18,
+          "matchType": "exact"
+        },
+        {
+          "keyword": "Anthropic",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Carl Franzen",
+      "categories": [
+        "AI",
+        "AI, ML and Deep Learning",
+        "Anthropic",
+        "Anthropic Claude",
+        "Anthropic Claude Haiku",
+        "chatbots",
+        "Claude 3.5 Haiku",
+        "Claude Haiku",
+        "Conversational AI",
+        "haiku",
+        "LLMs",
+        "NLP"
+      ],
+      "guid": "https://venturebeat.com/?p=2987106",
+      "pubDate": "Thu, 12 Dec 2024 16:40:45 +0000",
+      "creator": "Carl Franzen",
+      "contentSnippet": "With features like image and file analysis, robust coding capabilities, and integration with Artifacts, Claude 3.5 Haiku is a powerful tool.",
+      "isoDate": "2024-12-12T16:40:45.000Z"
+    },
+    {
+      "title": "OpenAI rolls out ChatGPT for iPhone in landmark AI integration with Apple",
+      "content": "<img width=\"578\" height=\"324\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Credit: VentureBeat made with Midjourney\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp 1033w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?resize=300,168 300w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?resize=768,430 768w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?resize=400,224 400w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?resize=750,420 750w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?resize=578,324 578w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_an_iPhone_screen_glowing_with_pastel_wa_3d9d1a9e-9ceb-47bb-897e-0815aa07235c.webp?resize=930,521 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Apple and OpenAI are partnering to bring ChatGPT to iPhone, transforming Siri, camera and productivity features in iOS 18.2.<a href=\"https://venturebeat.com/ai/openai-rolls-out-chatgpt-for-iphone-in-landmark-ai-integration-with-apple/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/openai-rolls-out-chatgpt-for-iphone-in-landmark-ai-integration-with-apple/",
+      "timestamp": "2024-12-11T21:54:52.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "OpenAI",
+          "score": 14,
+          "matchType": "exact"
+        }
+      ],
+      "author": "Michael Nuñez",
+      "categories": [
+        "AI",
+        "Automation",
+        "Data Infrastructure",
+        "Enterprise Analytics",
+        "Programming & Development",
+        "12 days of shipmas",
+        "AI technology",
+        "AI, ML and Deep Learning",
+        "Apple",
+        "Apple AI",
+        "artificial intelligence",
+        "category-/Business & Industrial",
+        "category-/Computers & Electronics/Software",
+        "category-/Internet & Telecom/Mobile & Wireless",
+        "category-/News",
+        "category-/Science",
+        "ChatGPT",
+        "Conversational AI",
+        "Data Management",
+        "Data Science",
+        "Data Storage and Cloud",
+        "iOS",
+        "iOS 18",
+        "iOS 18.2",
+        "iPhone",
+        "iPhone Pro",
+        "mobile AI",
+        "NLP",
+        "OpenAI",
+        "Sam Altman",
+        "Siri",
+        "Siri Update"
+      ],
+      "guid": "https://venturebeat.com/?p=2986851",
+      "pubDate": "Wed, 11 Dec 2024 21:54:52 +0000",
+      "creator": "Michael Nuñez",
+      "contentSnippet": "Apple and OpenAI are partnering to bring ChatGPT to iPhone, transforming Siri, camera and productivity features in iOS 18.2.",
+      "isoDate": "2024-12-11T21:54:52.000Z"
+    },
+    {
+      "title": "Google Gemini 2.0: Could this be the beginning of truly autonomous AI?",
+      "content": "<img width=\"578\" height=\"324\" src=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"Credit: VentureBeat made with Midjourney\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp 1033w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?resize=300,168 300w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?resize=768,430 768w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?resize=400,224 400w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?resize=750,420 750w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?resize=578,324 578w, https://venturebeat.com/wp-content/uploads/2024/12/nuneybits_Vector_art_of_a_robot_with_Google_logo_on_its_chest_w_1957dae4-6b81-444d-abac-1d8becc1306a.webp?resize=930,521 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>Google launches Gemini 2.0 with autonomous AI agents, native image generation, and multilingual capabilities, doubling performance while introducing Projects Astra, Mariner, and Jules for enhanced task automation and digital assistance.<a href=\"https://venturebeat.com/ai/google-gemini-2-0-could-this-be-the-beginning-of-truly-autonomous-ai/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/google-gemini-2-0-could-this-be-the-beginning-of-truly-autonomous-ai/",
+      "timestamp": "2024-12-11T15:30:00.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI agents",
+          "score": 12.8,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "Michael Nuñez",
+      "categories": [
+        "AI",
+        "Automation",
+        "Business",
+        "Data Infrastructure",
+        "Enterprise Analytics",
+        "Programming & Development",
+        "Security",
+        "ai",
+        "AI agents",
+        "AI assistant",
+        "AI automation",
+        "AI innovation",
+        "AI, ML and Deep Learning",
+        "artificial intelligence",
+        "automation",
+        "Big Data and Analytics",
+        "Business Intelligence",
+        "Business Process Automation",
+        "category-/Computers & Electronics",
+        "category-/Science/Computer Science",
+        "Conversational AI",
+        "Data Management",
+        "Data Science",
+        "Data Storage and Cloud",
+        "Gemini 2.0",
+        "Google",
+        "Google AI",
+        "Google Gemini",
+        "Jules",
+        "NLP",
+        "Predictive Analytics",
+        "Project Astra",
+        "Project Mariner",
+        "Synthetic Data",
+        "tensor processing unit"
+      ],
+      "guid": "https://venturebeat.com/?p=2986677",
+      "pubDate": "Wed, 11 Dec 2024 15:30:00 +0000",
+      "creator": "Michael Nuñez",
+      "contentSnippet": "Google launches Gemini 2.0 with autonomous AI agents, native image generation, and multilingual capabilities, doubling performance while introducing Projects Astra, Mariner, and Jules for enhanced task automation and digital assistance.",
+      "isoDate": "2024-12-11T15:30:00.000Z"
+    },
+    {
+      "title": "How RapidCanvas automates 70% of data tasks for gen AI projects",
+      "content": "<img width=\"578\" height=\"325\" src=\"https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?w=578\" class=\"attachment-single-feed size-single-feed wp-post-image\" alt=\"An AI-generated robot sitting in front of a computer, responding to customer service tickets.\" decoding=\"async\" loading=\"lazy\" srcset=\"https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg 1920w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=300,169 300w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=768,432 768w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=800,450 800w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=1536,864 1536w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=400,225 400w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=750,422 750w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=578,325 578w, https://venturebeat.com/wp-content/uploads/2024/04/adobe-firefly-robot-desk-customer-service-agent.jpg?resize=930,523 930w\" sizes=\"(max-width: 578px) 100vw, 578px\" /><hr/>With its context-aware AI agents, RapidCanvas is taking on the likes of leading players like DataRobot, Dataiku, Palantir and Alteryx.<a href=\"https://venturebeat.com/data-infrastructure/how-rapidcanvas-automates-70-of-data-tasks-for-gen-ai-projects/\" target=\"_blank\">Read More</a>",
+      "source": "https://venturebeat.com/category/ai/feed/",
+      "sourceName": "VentureBeat AI",
+      "link": "https://venturebeat.com/data-infrastructure/how-rapidcanvas-automates-70-of-data-tasks-for-gen-ai-projects/",
+      "timestamp": "2024-12-11T13:00:00.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI agents",
+          "score": 12.8,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "Shubham Sharma",
+      "categories": [
+        "AI",
+        "Business",
+        "Data Infrastructure",
+        "AI agent",
+        "AI agents",
+        "AI, ML and Deep Learning",
+        "category-/Business & Industrial",
+        "category-/Computers & Electronics/Enterprise Technology/Data Management",
+        "Conversational AI",
+        "Data agents",
+        "data integration",
+        "Data Management",
+        "data modeling",
+        "data operations",
+        "data preparation",
+        "Data Science",
+        "data transformation",
+        "funding",
+        "Generative AI",
+        "NLP",
+        "RapidCanvas"
+      ],
+      "guid": "https://venturebeat.com/?p=2986254",
+      "pubDate": "Wed, 11 Dec 2024 13:00:00 +0000",
+      "creator": "Shubham Sharma",
+      "contentSnippet": "With its context-aware AI agents, RapidCanvas is taking on the likes of leading players like DataRobot, Dataiku, Palantir and Alteryx.",
+      "isoDate": "2024-12-11T13:00:00.000Z"
+    },
+    {
+      "title": "Exploring Tokyo with an AI Travel Partner",
+      "content": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@cofounderai.esp/exploring-tokyo-with-an-ai-travel-partner-a7c3d253ba36?source=rss------ai_travel-5\"><img src=\"https://cdn-images-1.medium.com/max/2000/0*tw2xlJwEH-N9TsEE.jpg\" width=\"2000\"></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@cofounderai.esp/exploring-tokyo-with-an-ai-travel-partner-a7c3d253ba36?source=rss------ai_travel-5\">Continue reading on Medium »</a></p></div>",
+      "source": "https://medium.com/feed/tag/ai-travel",
+      "sourceName": "Medium AI Travel",
+      "link": "https://medium.com/@cofounderai.esp/exploring-tokyo-with-an-ai-travel-partner-a7c3d253ba36?source=rss------ai_travel-5",
+      "timestamp": "2024-12-09T13:06:22.000Z",
+      "addedAt": "2024-12-16T21:09:23.337Z",
+      "matchedKeywords": [
+        {
+          "keyword": "AI travel",
+          "score": 14.4,
+          "matchType": "phrase"
+        }
+      ],
+      "author": "Co-Fundador de IA",
+      "categories": [
+        "solo-travel-ai",
+        "ai-tourism",
+        "tokyo-guide",
+        "travel-ai",
+        "virtual-companion"
+      ],
+      "guid": "https://medium.com/p/a7c3d253ba36",
+      "pubDate": "Mon, 09 Dec 2024 13:06:22 GMT",
+      "creator": "Co-Fundador de IA",
+      "contentSnippet": "Continue reading on Medium »",
+      "isoDate": "2024-12-09T13:06:22.000Z"
+    }
+  ]
+}

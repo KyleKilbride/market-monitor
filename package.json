@@ -1,0 +1,54 @@
+{
+  "name": "market-monitor",
+  "version": "1.0.0",
+  "description": "AI & Travel Industry Market Monitor",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "dev": "nodemon --watch 'src/**/*.ts' --exec 'npm run start'",
+    "build": "tsc",
+    "ui": "tsc && node dist/ui/index.js",
+    "watch": "tsc && node dist/index.js watch",
+    "monitor:start": "tsc && pm2 start dist/index.js --name market-monitor -- watch",
+    "monitor:stop": "pm2 stop market-monitor",
+    "monitor:status": "pm2 show market-monitor",
+    "monitor:logs": "pm2 logs market-monitor"
+  },
+  "keywords": [
+    "ai",
+    "travel",
+    "monitor",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "ink": "^3.2.0",
+    "ink-select-input": "^4.2.1",
+    "ink-spinner": "^4.0.3",
+    "ink-table": "^3.1.0",
+    "inquirer": "^12.2.0",
+    "node-notifier": "^10.0.1",
+    "pm2": "^5.4.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/ink": "^2.0.3",
+    "@types/ink-select-input": "^3.0.1",
+    "@types/ink-table": "^1.0.7",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.17.10",
+    "@types/node-notifier": "^8.0.2",
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.11",
+    "@types/xml2js": "^0.4.14",
+    "nodemon": "^3.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "keywords": [
+    {
+      "value": "AI travel agent",
+      "type": "phrase",
+      "weight": 10
+    },
+    {
+      "value": "travelagent.ai",
+      "type": "phrase",
+      "weight": 10
+    },
+    {
+      "value": "AI growth",
+      "type": "phrase",
+      "weight": 9
+    },
+    {
+      "value": "AI growth labs",
+      "type": "phrase",
+      "weight": 10
+    },
+    {
+      "value": "AI travel planning",
+      "type": "phrase",
+      "weight": 10
+    },
+    {
+      "value": "AI travel assistant",
+      "type": "phrase",
+      "weight": 10
+    },
+    {
+      "value": "travel copilot",
+      "type": "phrase",
+      "weight": 10
+    },
+    {
+      "value": "Roam Around",
+      "type": "exact",
+      "weight": 9
+    },
+    {
+      "value": "Wonderplan",
+      "type": "exact",
+      "weight": 9
+    },
+    {
+      "value": "Wayward",
+      "type": "exact",
+      "weight": 9
+    },
+    {
+      "value": "AI itinerary",
+      "type": "phrase",
+      "weight": 9
+    },
+    {
+      "value": "AI travel planner",
+      "type": "phrase",
+      "weight": 9
+    },
+    {
+      "value": "AI travel",
+      "type": "phrase",
+      "weight": 9
+    },
+    {
+      "value": "travel agent ai",
+      "type": "phrase",
+      "weight": 9
+    },
+    {
+      "value": "travel recommendation AI",
+      "type": "phrase",
+      "weight": 9
+    },
+    {
+      "value": "travel personalization AI",
+      "type": "phrase",
+      "weight": 9
+    },
+    {
+      "value": "travel agent",
+      "type": "phrase",
+      "weight": 7
+    },
+    {
+      "value": "GPT-4",
+      "type": "exact",
+      "weight": 9
+    },
+    {
+      "value": "Claude-3",
+      "type": "exact",
+      "weight": 9
+    },
+    {
+      "value": "Gemini Ultra",
+      "type": "exact",
+      "weight": 9
+    },
+    {
+      "value": "Mistral Large",
+      "type": "exact",
+      "weight": 9
+    },
+    {
+      "value": "LangChain",
+      "type": "exact",
+      "weight": 8
+    },
+    {
+      "value": "LlamaIndex",
+      "type": "exact",
+      "weight": 8
+    },
+    {
+      "value": "function calling",
+      "type": "phrase",
+      "weight": 8
+    },
+    {
+      "value": "AI agents",
+      "type": "phrase",
+      "weight": 8
+    },
+    {
+      "value": "autonomous agents",
+      "type": "phrase",
+      "weight": 8
+    },
+
+    {
+      "value": "Amadeus AI",
+      "type": "phrase",
+      "weight": 8
+    },
+    {
+      "value": "Sabre AI",
+      "type": "phrase",
+      "weight": 8
+    },
+    {
+      "value": "travel API AI",
+      "type": "phrase",
+      "weight": 8
+    },
+    {
+      "value": "travel startup AI",
+      "type": "phrase",
+      "weight": 8
+    },
+    {
+      "value": "machine learning travel",
+      "type": "phrase",
+      "weight": 8
+    },
+
+    {
+      "value": "RAG travel",
+      "type": "phrase",
+      "weight": 7
+    },
+    {
+      "value": "semantic search travel",
+      "type": "phrase",
+      "weight": 7
+    },
+    {
+      "value": "vector search travel",
+      "type": "phrase",
+      "weight": 7
+    },
+    {
+      "value": "travel knowledge graph",
+      "type": "phrase",
+      "weight": 7
+    },
+    {
+      "value": "travel data AI",
+      "type": "phrase",
+      "weight": 7
+    },
+
+    {
+      "value": "OpenAI",
+      "type": "exact",
+      "weight": 7
+    },
+    {
+      "value": "Anthropic",
+      "type": "exact",
+      "weight": 7
+    },
+    {
+      "value": "Google AI",
+      "type": "phrase",
+      "weight": 7
+    },
+    {
+      "value": "Mistral AI",
+      "type": "exact",
+      "weight": 7
+    },
+
+    {
+      "value": "travel industry AI",
+      "type": "phrase",
+      "weight": 6
+    },
+    {
+      "value": "AI investment travel",
+      "type": "phrase",
+      "weight": 6
+    },
+    {
+      "value": "travel tech trends",
+      "type": "phrase",
+      "weight": 6
+    },
+    {
+      "value": "future of travel planning",
+      "type": "phrase",
+      "weight": 6
+    }
+  ],
+  "sources": [
+    {
+      "type": "rss",
+      "url": "https://hnrss.org/newest",
+      "name": "Hacker News",
+      "useGlobalKeywords": true,
+      "weight": 8
+    },
+    {
+      "type": "rss",
+      "url": "https://skift.com/feed/",
+      "name": "Skift",
+      "useGlobalKeywords": true,
+      "weight": 9
+    },
+    {
+      "type": "rss",
+      "url": "https://www.phocuswire.com/rss.xml",
+      "name": "PhocusWire",
+      "useGlobalKeywords": true,
+      "weight": 9
+    },
+    {
+      "type": "rss",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "name": "VentureBeat AI",
+      "useGlobalKeywords": true,
+      "weight": 8
+    },
+    {
+      "type": "rss",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/feed/",
+      "name": "TechCrunch AI",
+      "useGlobalKeywords": true,
+      "weight": 8
+    },
+    {
+      "type": "rss",
+      "url": "https://medium.com/feed/tag/ai-travel",
+      "name": "Medium AI Travel",
+      "useGlobalKeywords": true,
+      "weight": 7
+    }
+  ]
+}
